@@ -16,7 +16,7 @@
 
 ### 1. Установка приложения
 
-1. Скачайте приложение [**HAPP**](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe) для Windows.
+1. Скачайте приложение [**INCY**](https://github.com/INCY-DEV/incy-platforms/releases/download/desktop-v3.2.0/incy-windows-setup.exe) для Windows.
 2. Установите приложение на компьютер.
 3. Запустите приложение.
 
@@ -113,7 +113,7 @@
 
 ### 1. Установка приложения
 
-1. Скачайте приложение [**HAPP**](https://play.google.com/store/apps/details?id=com.happproxy).
+1. Скачайте приложение [GooglePlay](https://play.google.com/store/apps/details?id=llc.itdev.incy&pcampaignid=web_share).
 3. Установите приложение.
 4. Откройте его на телевизоре.
 
