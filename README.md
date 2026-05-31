@@ -16,14 +16,14 @@
 
 ### 1. Установка приложения
 
-1. Скачайте приложение [**INCY**](https://github.com/INCY-DEV/incy-platforms/releases/download/desktop-v3.2.0/incy-windows-setup.exe) для Windows.
+1. Скачайте приложение [**INCY**](https://github.com/INCY-DEV/incy-platforms/releases/download/desktop-v3.2.0/incy-windows-setup.exe) или [**Happ**](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe) для Windows.
 2. Установите приложение на компьютер.
 3. Запустите приложение.
 
 ### 2. Добавление подписки
 
 1. Скопируйте вашу личную ссылку подписки.
-2. Откройте приложение **INCY**.
+2. Откройте приложение.
 ![куда тыкать](images/Frame1.png)
 4. Нажмите **Из буфера**.
 5. Вставьте вашу ссылку подписки.
